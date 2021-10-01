@@ -1,8 +1,12 @@
 <!-- prettier-ignore -->
-# Recipes Project
+# A Series of Odin Projects
 
-- A basic recipe website
+## Recipes Project
 
-## Skills Demonstrated
+- Description
 
-- HTML
+  - A basic recipe website
+
+- Skills Demonstrated
+
+  - HTML
